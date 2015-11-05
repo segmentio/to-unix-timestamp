@@ -1,6 +1,6 @@
 {
   "name": "to-unix-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a date object to a Unix timestamp.",
   "main": "index.js",
   "directories": {
