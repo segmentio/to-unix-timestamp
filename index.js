@@ -8,7 +8,7 @@
  */
 
 function toUnixTimestamp(date) {
-  return Math.floor(date.getTime() / 1000);
+  return Math.floor(new Date(date).getTime() / 1000);
 }
 
 /**
